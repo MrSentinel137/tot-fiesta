@@ -1,7 +1,7 @@
 # ToT-fiesta
 🤖 Explore the ultimate Chatbot Fiesta! Python, Streamlit, Langchain, Tree of Thoughts(ToT) Framework, and Gemini Model
 
-Welcome to the Chatbot Fiesta GitHub repository! 🌐💬
+Welcome to the Chatbot Fiesta GitHub repository! 🌐💬  
 In this repository, we embark on an exciting coding journey, exploring the convergence of Python, Streamlit, Langchain, the Tree of Thoughts (ToT) framework, and the dynamic Gemini Model.
 
 ## What's Inside:
